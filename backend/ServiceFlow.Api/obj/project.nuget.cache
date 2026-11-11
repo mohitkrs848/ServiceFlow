@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sOGH/oX4jko=",
+  "success": true,
+  "projectFilePath": "E:\\ServiceFlow\\ServiceFlow\\backend\\ServiceFlow.Api\\ServiceFlow.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tanis\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.15\\microsoft.aspnetcore.openapi.10.0.15.nupkg.sha512",
+    "C:\\Users\\tanis\\.nuget\\packages\\microsoft.openapi\\2.13.0\\microsoft.openapi.2.13.0.nupkg.sha512"
+  ],
+  "logs": []
+}
