@@ -31,3 +31,4 @@ E:\ServiceFlow\ServiceFlow\backend\ServiceFlow.Api\obj\Debug\net10.0\refint\Serv
 E:\ServiceFlow\ServiceFlow\backend\ServiceFlow.Api\obj\Debug\net10.0\ServiceFlow.Api.pdb
 E:\ServiceFlow\ServiceFlow\backend\ServiceFlow.Api\obj\Debug\net10.0\ServiceFlow.Api.genruntimeconfig.cache
 E:\ServiceFlow\ServiceFlow\backend\ServiceFlow.Api\obj\Debug\net10.0\ref\ServiceFlow.Api.dll
+E:\ServiceFlow\ServiceFlow\backend\ServiceFlow.Api\obj\Debug\net10.0\ServiceFlow.Api.sourcelink.json
